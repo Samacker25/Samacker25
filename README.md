@@ -5,7 +5,7 @@ I enjoy building **production-ready machine learning pipelines**, automating wor
 
 ---
 
-🚀 About Me
+## 🚀 About Me
 - 🎓 MCA Graduate  
 - 🏥 4+ Years Experience in Healthcare IT  
 - 🤖 Skilled in ML, DL, NLP, Computer Vision  
@@ -13,7 +13,7 @@ I enjoy building **production-ready machine learning pipelines**, automating wor
 - 🧰 Strong engineering practices: OOPs, Logging, Exception Handling, Modular Code  
 - 🐍 Python | Linux | Git | VS Code | Anaconda | PyCharm | Spyder  
 
- 🧠 Skills & Technologies
+## 🧠 Skills & Technologies
 
  **Machine Learning & AI**
 - Machine Learning (Regression, Classification)  
@@ -36,7 +36,7 @@ I enjoy building **production-ready machine learning pipelines**, automating wor
 - Git & Linux  
 
 
-📫 Connect With Me
+## 📫 Connect With Me
 - **LinkedIn:** *(https://www.linkedin.com/in/samacker25/)*  
 - **GitHub:** https://github.com/Samacker25  
 - **Email:** *(soumenkundu.work@gmail.com)*
