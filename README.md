@@ -1,12 +1,46 @@
-- 👋 Hi, I’m @Samacker25
-- 👀 I’m interested in AI, ML, DATA SCIENCE.
-- 🌱 I’m currently learning DEEP LEARNING.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me soumenkundu.work@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Soumen | Data Science & MLOps Enthusiast
 
-<!---
-Samacker25/Samacker25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m an MCA graduate with 4+ years of experience in the Healthcare IT domain, now transitioning into **Data Science, Machine Learning, and MLOps**.  
+I enjoy building **production-ready machine learning pipelines**, automating workflows, and deploying models on the cloud.
+
+---
+
+🚀 About Me
+- 🎓 MCA Graduate  
+- 🏥 4+ Years Experience in Healthcare IT  
+- 🤖 Skilled in ML, DL, NLP, Computer Vision  
+- 🛠️ Hands-on with MLOps: Docker, GitHub Actions, CI/CD, AWS (EC2, ECR, IAM)  
+- 🧰 Strong engineering practices: OOPs, Logging, Exception Handling, Modular Code  
+- 🐍 Python | Linux | Git | VS Code | Anaconda | PyCharm | Spyder  
+
+ 🧠 Skills & Technologies
+
+ **Machine Learning & AI**
+- Machine Learning (Regression, Classification)  
+- Deep Learning (CNN, RNN, ANN)  
+- NLP  
+- Computer Vision  
+
+ **MLOps & Cloud**
+- Docker  
+- CI/CD  
+- GitHub Actions  
+- AWS (EC2, ECR, IAM)  
+
+ **Tools & Environments**
+- Python  
+- Anaconda Navigator  
+- PyCharm  
+- Spyder  
+- VS Code  
+- Git & Linux  
+
+
+📫 Connect With Me
+- **LinkedIn:** *([add your link](https://www.linkedin.com/in/samacker25/))*  
+- **GitHub:** https://github.com/Samacker25  
+- **Email:** *(soumenkundu.work@gmail.com)*
+
+---
+
+⭐ *Always learning. Always building. Always improving.*  
