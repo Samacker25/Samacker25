@@ -39,7 +39,7 @@ I enjoy building **production-ready machine learning pipelines**, automating wor
 ## 📫 Connect With Me
 - **LinkedIn:** *https://www.linkedin.com/in/samacker25/*  
 - **GitHub:** https://github.com/Samacker25  
-- **Email:** *(soumenkundu.work@gmail.com)*
+- **Email:** *soumenkundu.work@gmail.com*
 
 ---
 
