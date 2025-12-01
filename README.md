@@ -33,7 +33,7 @@ I enjoy building **production-ready machine learning pipelines**, automating wor
 - PyCharm  
 - Spyder  
 - VS Code  
-- Git & Linux  
+- Git  
 
 
 ## 📫 Connect With Me
