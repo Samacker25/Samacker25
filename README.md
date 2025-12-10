@@ -1,7 +1,7 @@
 <!-- Custom Banner -->
-<p align="center">
-  <img src="https://github.com/Samacker25/Samacker25/blob/main/assets/banner.png" alt="Soumen Banner" />
-</p>
+#<p align="center">
+ # <img src="https://github.com/Samacker25/Samacker25/blob/main/assets/banner.png" alt="Soumen Banner" />
+#</p>
 
 <h1 align="center">👋 Hi, I'm Soumen | Aspiring ML Engineer / MLOps Engineer</h1>
 
