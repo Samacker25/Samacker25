@@ -1,46 +1,61 @@
-# 👋 Hi, I'm Soumen | Data Science & MLOps Enthusiast
+#👋 Hi, I'm Soumen | Aspiring ML Engineer / MLOps Engineer
 
-I’m an MCA graduate with 4+ years of experience in the Healthcare IT domain, now transitioning into **Data Science, Machine Learning, and MLOps**.  
-I enjoy building **production-ready machine learning pipelines**, automating workflows, and deploying models on the cloud.
+I’m an MCA graduate with 4+ years of Healthcare IT experience, now focused on building skills in Data Science, Machine Learning, and MLOps.
+I enjoy creating production-grade ML pipelines, automating workflows, and deploying scalable models on the cloud.
 
----
+I believe in learning by building — and most of my projects reflect real-world ML engineering and MLOps practices.
 
-## 🚀 About Me
-- 🎓 MCA Graduate  
-- 🏥 4+ Years Experience in Healthcare IT  
-- 🤖 Skilled in ML, DL, NLP, Computer Vision  
-- 🛠️ Hands-on with MLOps: Docker, GitHub Actions, CI/CD, AWS (EC2, ECR, IAM)  
-- 🧰 Strong engineering practices: OOPs, Logging, Exception Handling, Modular Code  
-- 🐍 Python | Linux | Git | VS Code | Anaconda | PyCharm | Spyder  
+#🚀 What I Do
 
-## 🧠 Skills & Technologies
+Build end-to-end ML pipelines with data ingestion → preprocessing → training → tracking → deployment
 
- **Machine Learning & AI**
-- Machine Learning (Regression, Classification)  
-- Deep Learning (CNN, RNN, ANN)  
-- NLP  
-- Computer Vision  
+Create MLOps workflows using Docker, GitHub Actions, MLflow & DVC
 
- **MLOps & Cloud**
-- Docker  
-- CI/CD  
-- GitHub Actions  
-- AWS (EC2, ECR, IAM)  
+Deploy ML services on AWS (EC2, ECR, EKS)
 
- **Tools & Environments**
-- Python  
-- Anaconda Navigator  
-- PyCharm  
-- Spyder  
-- VS Code  
-- Git  
+Apply engineering best practices: OOP, modular code, logging, config management, exception handling
 
+Explore NLP, Deep Learning, and Computer Vision through hands-on projects
 
-## 📫 Connect With Me
-- **LinkedIn:** *https://www.linkedin.com/in/samacker25/*  
-- **GitHub:** https://github.com/Samacker25  
-- **Email:** *soumenkundu.work@gmail.com*
+#🧠 Skills & Technologies
+Machine Learning & AI
 
----
+Regression, Classification, Feature Engineering
 
-⭐ *Always learning. Always building. Always improving.*  
+Deep Learning (ANN, CNN, RNN)
+
+NLP & Text Processing
+
+Computer Vision Basics
+
+MLOps & Cloud
+
+Docker
+
+MLflow, DVC
+
+GitHub Actions (CI/CD)
+
+AWS: EC2, ECR, S3, IAM, EKS (Basics)
+
+Kubernetes (Deployments, Services)
+
+Software & Tools
+
+Python
+
+Git, Linux
+
+VS Code, PyCharm, Spyder
+
+Anaconda / Virtual Environments
+
+#🌐 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/samacker25/
+
+🐙 GitHub: https://github.com/Samacker25
+
+📧 Email: soumenkundu.work@gmail.com
+
+⭐ Building. Learning. Improving — one project at a time.
