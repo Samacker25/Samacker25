@@ -1,8 +1,4 @@
 <!-- Custom Banner -->
-#<p align="center">
- # <img src="https://github.com/Samacker25/Samacker25/blob/main/assets/banner.png" alt="Soumen Banner" />
-#</p>
-
 <h1 align="center">👋 Hi, I'm Soumen | Aspiring ML Engineer / MLOps Engineer</h1>
 
 <p align="center">
@@ -13,7 +9,7 @@
 
 ## 🚀 About Me
 - 🎓 MCA Graduate  
-- 🏥 4+ Years Experience in Healthcare IT  
+- 🏥 4+ Years Experience in Healthcare IT as an IT Executive 
 - 🤖 Hands-on with ML, NLP, DL & Computer Vision  
 - ⚙️ Building production-style MLOps pipelines  
 - ☁️ Deploying ML apps on AWS (EC2, ECR, EKS)  
@@ -52,30 +48,6 @@
 
 ---
 
-## 📌 Highlighted Projects
-
-### 🔥 **End-to-End MLOps Pipeline for Sentiment Analysis**  
-MLflow tracking, DVC, CI/CD, Docker, AWS EKS Deployment, Prometheus & Grafana  
-🔗 *https://github.com/Samacker25/Sentiment-Analysis-end-to-end-MLOps*
-
-### 📊 **Multiple Disease Prediction App**  
-Streamlit ML web app for health predictions  
-🔗 *https://github.com/Samacker25/Multiple_disease_prediction_app*
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Samacker25&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samacker25&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samacker25&theme=tokyonight" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 <p align="left">
