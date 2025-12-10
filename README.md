@@ -1,11 +1,11 @@
-#👋 Hi, I'm Soumen | Aspiring ML Engineer / MLOps Engineer
+👋 Hi, I'm Soumen | Aspiring ML Engineer / MLOps Engineer
 
 I’m an MCA graduate with 4+ years of Healthcare IT experience, now focused on building skills in Data Science, Machine Learning, and MLOps.
 I enjoy creating production-grade ML pipelines, automating workflows, and deploying scalable models on the cloud.
 
 I believe in learning by building — and most of my projects reflect real-world ML engineering and MLOps practices.
 
-#🚀 What I Do
+🚀 What I Do
 
 Build end-to-end ML pipelines with data ingestion → preprocessing → training → tracking → deployment
 
@@ -17,7 +17,7 @@ Apply engineering best practices: OOP, modular code, logging, config management,
 
 Explore NLP, Deep Learning, and Computer Vision through hands-on projects
 
-#🧠 Skills & Technologies
+🧠 Skills & Technologies
 Machine Learning & AI
 
 Regression, Classification, Feature Engineering
@@ -50,7 +50,21 @@ VS Code, PyCharm, Spyder
 
 Anaconda / Virtual Environments
 
-#🌐 Connect With Me
+📌 Highlighted Projects
+
+Here are some of the projects I’ve built to strengthen my ML/MLOps foundations:
+
+🔥 End-to-End MLOps Pipeline for Sentiment Analysis
+MLflow tracking, DVC pipelines, CI/CD, Docker, AWS EKS deployment, Prometheus + Grafana monitoring
+👉 https://github.com/Samacker25/Sentiment-Analysis-end-to-end-MLOps
+
+📊 Multiple Disease Prediction App
+ML model deployed with Streamlit
+👉 https://github.com/Samacker25/Multiple_disease_prediction_app
+
+(You can list more projects if you want!)
+
+🌐 Connect With Me
 
 🔗 LinkedIn: https://www.linkedin.com/in/samacker25/
 
