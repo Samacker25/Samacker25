@@ -1,5 +1,5 @@
 <!-- Custom Banner -->
-<h1 align="center">👋 Hi, I'm Soumen | Aspiring ML Engineer / MLOps Engineer</h1>
+<h1 align="center">👋 Hi, I'm Soumen | Aspiring Data Scientist / ML Engineer / MLOps Engineer</h1>
 
 <p align="center">
   Passionate about building scalable ML systems, automating pipelines, and deploying real-world machine learning solutions.
