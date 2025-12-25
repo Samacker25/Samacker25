@@ -15,7 +15,7 @@
 - ☁️ Deploying ML apps on AWS (EC2, ECR, EKS)  
 - 🛠 Strong engineering foundation: OOP, Logging, Modular Architecture, CI/CD  
 
-----
+-----
 
 ## 🧠 Skills & Technologies
 
