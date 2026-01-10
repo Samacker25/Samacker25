@@ -7,19 +7,19 @@
 
 ------
 
-## 🚀 About Me
-- 🎓 MCA Graduate  
-- 🏥 4+ Years Experience in Healthcare IT as an IT Executive 
-- 🤖 Hands-on with ML, NLP, DL & Computer Vision  
-- ⚙️ Building production-style MLOps pipelines  
-- ☁️ Deploying ML apps on AWS (EC2, ECR, EKS)  
-- 🛠 Strong engineering foundation: OOP, Logging, Modular Architecture, CI/CD  
+##  About Me
+-  MCA Graduate  
+-  4+ Years Experience in Healthcare IT as an IT Executive 
+-  Hands-on with ML, NLP, DL & Computer Vision  
+-  Building production-style MLOps pipelines  
+-  Deploying ML apps on AWS (EC2, ECR, EKS)  
+-  Strong engineering foundation: OOP, Logging, Modular Architecture, CI/CD  
 
 ------
 
-## 🧠 Skills & Technologies
+##  Skills & Technologies
 
-### 🔹 **Languages & ML**
+###  **Languages & ML**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
-### 🔹 **MLOps & Cloud**
+###  **MLOps & Cloud**
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
-### 🔹 **Tools**
+###  **Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -49,7 +49,7 @@
 -------
 
 
-## 🌐 Connect With Me
+##  Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/samacker25/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:soumenkundu.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -58,4 +58,4 @@
 
 ------
 
-⭐ *Always learning. Always building. Always improving.*  
+ *Always learning. Always building. Always improving.*  
