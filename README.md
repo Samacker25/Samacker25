@@ -83,7 +83,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samacker25&show_icons=true&theme=dark&hide_border=true" height="150"/>
   <img src="https://streak-stats.demolab.com?user=Samacker25&theme=dark&hide_border=true" height="150"/>
 </p>
 
