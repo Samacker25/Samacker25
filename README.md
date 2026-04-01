@@ -82,7 +82,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=Samacker25&theme=dark&hide_border=true" height="150"/>
 </p>
 
