@@ -16,7 +16,7 @@
 - ☁️ Deploying scalable applications on **AWS (EC2, ECR, EKS)**  
 - 🔄 Strong in **MLOps (CI/CD, Docker, MLflow, DVC)**  
 
----
+----
 
 ## 🔥 Featured Project
 
