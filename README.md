@@ -129,10 +129,11 @@ Building production-grade AI applications, multi-agent systems, RAG platforms, a
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="left"> <img src="https://streak-stats.demolab.com?user=Samacker25&theme=dark&hide_border=true" height="150"/> </p> ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samacker25&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samacker25&layout=compact&theme=tokyonight)
 # 🎯 Current Focus
 
 * Agentic AI Systems
