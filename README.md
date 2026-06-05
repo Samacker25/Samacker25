@@ -131,11 +131,7 @@ Building production-grade AI applications, multi-agent systems, RAG platforms, a
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Samacker25&theme=dark&hide_border=true"/>
-</p>
-
----
+<p align="left"> <img src="https://streak-stats.demolab.com?user=Samacker25&theme=dark&hide_border=true" height="150"/> </p> ---
 
 # 🎯 Current Focus
 
