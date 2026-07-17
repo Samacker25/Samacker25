@@ -1,158 +1,226 @@
-<!-- Hero Banner -->
-
-<h1 align="center">🚀 Soumen Kundu</h1>
-
-<h3 align="center">
-AI Engineer • Generative AI • MLOps • AI Systems Architecture
-</h3>
+<h1 align="center">Hi 👋, I'm Soumen Kundu</h1>
+<h3 align="center">AI Engineer | Generative AI | Agentic AI | MLOps | Python</h3>
 
 <p align="center">
-Building production-grade AI applications, multi-agent systems, RAG platforms, and intelligent software products.
+Building production-ready AI applications with LLMs, RAG, Multi-Agent Systems and scalable backend architectures.
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Samacker25">
+<img src="https://img.shields.io/github/followers/Samacker25?label=Followers&style=for-the-badge&logo=github">
+</a>
+
+<a href="https://github.com/Samacker25">
+<img src="https://img.shields.io/github/stars/Samacker25?affiliations=OWNER&style=for-the-badge">
+</a>
+
+<a href="https://linkedin.com/in/samacker25">
+<img src="https://img.shields.io/badge/LinkedIn-Soumen%20Kundu-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://soumenkundu.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome">
+</a>
+
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-* 🎓 MCA Graduate
-* 💼 4+ years experience in IT Automation, Data Systems & Healthcare Technology
-* 🤖 AI Engineer focused on Generative AI, Agentic Systems and AI Product Development
-* ⚙️ Building production-ready AI systems using LangGraph, RAG, FastAPI, PostgreSQL and Redis
-* 🚀 Creator of **YourBestPeer (AI Life OS)** — an AI-powered personal operating system
-* ☁️ Experienced with Docker, AWS, CI/CD, MLOps and scalable backend architectures
-* 📚 Continuously learning AI System Design, Distributed Systems and LLMOps
+- 🎓 MCA Graduate
+- 💼 **4+ Years** of Professional Experience in Healthcare IT & Automation
+- 🤖 AI Engineer specializing in **Generative AI, Agentic AI and MLOps**
+- ⚙️ Building scalable AI applications using **FastAPI, LangGraph, PostgreSQL, Redis and Docker**
+- 🚀 Creator of **YourBestPeer (AI Life OS)**
+- ☁️ Experienced with **AWS, Kubernetes, CI/CD, MLflow and Distributed Systems**
+- 📚 Passionate about AI System Design, LLMOps, AI Security and Scalable Architectures
+
+---
+
+# 🏆 Tech Badges
+
+### Languages
+
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+### AI / LLM
+
+![](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![](https://img.shields.io/badge/LangGraph-6C2BD9?style=for-the-badge)
+![](https://img.shields.io/badge/Agentic_AI-purple?style=for-the-badge)
+![](https://img.shields.io/badge/RAG-009688?style=for-the-badge)
+![](https://img.shields.io/badge/Multi--Agent_AI-blueviolet?style=for-the-badge)
+![](https://img.shields.io/badge/LangSmith-success?style=for-the-badge)
+![](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google)
+![](https://img.shields.io/badge/Prompt_Engineering-orange?style=for-the-badge)
+
+---
+
+### Machine Learning
+
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+
+---
+
+### Backend
+
+![](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![](https://img.shields.io/badge/Microservices-success?style=for-the-badge)
+
+---
+
+### Databases
+
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![](https://img.shields.io/badge/Pinecone-0055FF?style=for-the-badge)
+![](https://img.shields.io/badge/FAISS-blue?style=for-the-badge)
+
+---
+
+### Cloud & DevOps
+
+![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+![](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+![](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge)
+![](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
+![](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
 
 ---
 
 # 🌟 Flagship Project
 
-## 🧠 YourBestPeer — AI Life OS
+# 🧠 YourBestPeer — AI Life OS
 
-> The AI-powered personal operating system for productivity, knowledge, finance, habits, career growth and intelligent decision making.
+> **An Agentic AI Personal Intelligence Platform designed to become your intelligent operating system for productivity, knowledge, finance, habits and career growth.**
 
-### Core Features
+## 🌐 Live Demo
 
-* 🤖 Multi-Agent AI Assistant (LangGraph)
-* 📚 RAG-Powered Knowledge Vault
-* ✅ Productivity Engine (Tasks, Projects, Notes)
-* 💰 Finance Hub
-* 🔥 Habit Arena
-* 🎯 Career Intelligence
-* 📊 Analytics Dashboard
-* ⚙️ Workflow Automation Engine
-* 🔔 Smart Notifications
-* 🔗 Google Integrations
+### https://yourbestpeer.vercel.app
 
-### Architecture
+### Built With
 
-* 12 FastAPI Microservices
-* PostgreSQL
-* Redis
-* Pinecone Vector Database
-* LangGraph Multi-Agent System
-* Gemini Models
-* Docker Compose
-* JWT + Google OAuth
+- 12 FastAPI Microservices
+- LangGraph Multi-Agent System
+- RAG Pipeline
+- Pinecone Vector Database
+- PostgreSQL
+- Redis
+- Docker
+- Railway
+- Vercel
+- JWT Authentication
+- Google OAuth
+- LangSmith Observability
+- GitHub Actions CI/CD
 
-### Current Roadmap
+### Features
 
-* 📱 Mobile App
-* 💻 Desktop App
-* ☁️ Kubernetes Deployment
-* 🏗 Terraform Infrastructure
-* 🎙 Voice Assistant
-* 🧠 Advanced Recommendation Engine
-
----
-
-# 🚀 Other Featured Projects
-
-## AI Blog Writing Agent
-
-* LangGraph Multi-Agent Workflow
-* RAG + Web Search
-* FastAPI Backend
-* Streamlit Frontend
-* LangSmith Observability
-
-## Vehicle Insurance Prediction (MLOps)
-
-* End-to-End ML Pipeline
-* FastAPI Deployment
-* Docker
-* AWS
-* MLflow
-* DVC
-* GitHub Actions
-
-## Sentiment Analysis MLOps Platform
-
-* NLP Pipeline
-* Kubernetes Deployment
-* Prometheus Monitoring
-* Grafana Dashboards
+- 🤖 AI Assistant
+- 📚 Knowledge Vault
+- 📅 Task & Project Management
+- 💰 Finance Hub
+- 🔥 Habit Tracker
+- 🎯 Career Intelligence
+- 📊 Analytics Dashboard
+- ⚙️ Workflow Automation
+- 🔔 Notifications
+- 🔗 Google Integration
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Featured Projects
 
-## Generative AI & LLMs
+## 🧠 YourBestPeer
 
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge)
-![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
-
-## AI Engineering & MLOps
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge\&logo=mlflow\&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-
-## Databases & Infrastructure
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-00B388?style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-
-## Frontend
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+Production-ready Agentic AI Platform with LangGraph and FastAPI Microservices.
 
 ---
 
-## 📊 GitHub Activity
-<p><img src="https://github-readme-stats.vercel.app/api?username=Samacker25&show_icons=true&theme=tokyonight" /></p>
+## ✍️ AI Blog Writing Agent
 
-
-# 🎯 Current Focus
-
-* Agentic AI Systems
-* AI Life OS Development
-* RAG Evaluation & Observability
-* LLMOps
-* AI System Design
-* Distributed Systems
-* Production AI Engineering
+Multi-Agent LLM application using LangGraph, Tavily, Gemini and LangSmith.
 
 ---
 
-# 🤝 Connect With Me
+## 🚗 Vehicle Insurance Prediction
 
-* LinkedIn: https://linkedin.com/in/samacker25
-* Portfolio: https://soumenkundu.netlify.app
-* GitHub: https://github.com/Samacker25
-* Email: [soumenkundu.work@gmail.com](mailto:soumenkundu.work@gmail.com)
+Production-grade MLOps Pipeline using Docker, AWS, MLflow and DVC.
 
 ---
 
-⭐ Building AI systems that solve real-world problems.
-⭐ Learning deeply. Shipping consistently. Thinking long-term.
+## 😊 Sentiment Analysis Platform
+
+End-to-End NLP system deployed on Kubernetes with Prometheus & Grafana.
+
+---
+
+# 📚 Currently Learning
+
+- AI System Design
+- Distributed Systems
+- LLMOps
+- Kubernetes
+- Terraform
+- Event-Driven Architecture
+- AI Security
+- MCP (Model Context Protocol)
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Samacker25&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Samacker25&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samacker25&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**  
+soumenkundu.work@gmail.com
+
+🌐 **Portfolio**  
+https://soumenkundu.netlify.app
+
+💼 **LinkedIn**  
+https://linkedin.com/in/samacker25
+
+🐙 **GitHub**  
+https://github.com/Samacker25
+
+---
+
+### 💡 Motto
+
+> **Building production-ready AI systems that solve real-world problems through intelligent automation and scalable software engineering.**
